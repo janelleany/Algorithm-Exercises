@@ -1,3 +1,5 @@
+// initial seed
+
 var world = [
     [false, false, false],
     [true, true, true],
